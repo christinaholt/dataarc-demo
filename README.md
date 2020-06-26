@@ -5,4 +5,4 @@
 
 # Getting started with DataARC Diagram
 
-[![Lucid Chart Graph](https://app.lucidchart.com/documents/view/dd77c506-ef38-42bb-896b-807e65f3ddaa/0_0)]
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://app.lucidchart.com/documents/embeddedchart/dd77c506-ef38-42bb-896b-807e65f3ddaa" id=".iC_Ilbeac5W"></iframe></div>
