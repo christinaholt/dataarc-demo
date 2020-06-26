@@ -5,5 +5,5 @@
 
 # Getting started with DataARC Diagram
 
-![Diagram](DataARCUserJourney.pdf)
+![Diagram](./DataARCUserJourney.pdf)
 
