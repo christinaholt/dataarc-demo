@@ -5,5 +5,5 @@
 
 # Getting started with DataARC Diagram
 
-![Diagram](https://app.lucidchart.com/publicSegments/view/27c9cddb-b8ef-475c-be74-d10f3cfb44ee/image.png)
+![Diagram](https://app.lucidchart.com/publicSegments/view/65c34519-5f55-4e34-8cde-fc3d5ca4a2ce/image.png)
 
